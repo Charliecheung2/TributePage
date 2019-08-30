@@ -1,0 +1,19 @@
+body {
+    margin-top: 60px;
+    background-color: #141518;
+    font-family: -apple-system, system-ui;
+}
+
+.jumbotron{
+    background-color: #E7E8EC;
+}
+
+#universe{
+    width: 40px;
+    height: 40px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}
